@@ -1,0 +1,24 @@
+.landing-page .hero-section {
+  background: url('https://via.placeholder.com/1920x600') center center / cover no-repeat;
+  color: white;
+}
+
+.landing-page .card {
+  transition: transform 0.2s ease;
+}
+
+.landing-page .card:hover {
+  transform: scale(1.05);
+}
+
+.landing-page .card-title {
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+
+.landing-page .card-img-top {
+  height: 350px;
+  object-fit: cover;
+}
+

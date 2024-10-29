@@ -1,0 +1,9 @@
+.header {
+  background-color: #343a40;
+  padding: 15px;
+}
+
+.header .logo h1 {
+  font-size: 1.5rem;
+}
+
